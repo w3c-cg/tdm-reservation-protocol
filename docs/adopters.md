@@ -24,6 +24,24 @@ The following Academic & Science, Technology and Mathematics publishers has adop
 - Optica Publishing Group (https://opg.optica.org/): as tdmrep.json, Crossref metadata, PDF XMP Metadata, with a policy
 - IEEE (https://www.ieee.org): as tdmrep.json, with a policy.
 - Sage (https://www.sagepub.com) as tdmrep.json, with a policy.
+- Association for the Advancement of Medical Instrumentation (https://array.aami.org): as tdmrep.json, with a policy.
+- American College of Physicians (https://www.acpjournals.org): as tdmrep.json, with a policy.
+- American Society of Civil Engineers (https://ascelibrary.org): as tdmrep.json, with a policy.
+- American Speech-Language-Hearing Association (https://pubs.asha.org): as tdmrep.json, with a policy.
+- CAB International (https://www.cabidigitallibrary.org): as tdmrep.json, with a policy.
+- Edinburgh University Press (https://www.euppublishing.com): as tdmrep.json, with a policy.
+- Geological Society of London (https://www.lyellcollection.org): as tdmrep.json, with a policy.
+- Guilford Press (https://guilfordjournals.com): as tdmrep.json, with a policy.
+- Hogrefe (https://econtent.hogrefe.com): as tdmrep.json, with a policy.
+- Institution of Engineering and Technology (https://digital-library.theiet.org): as tdmrep.json, with a policy.
+- Liverpool University Press (https://www.liverpooluniversitypress.co.uk): as tdmrep.json, with a policy.
+- Mark Allen Group (https://www.magonlinelibrary.com): as tdmrep.json, with a policy.
+- American Physiological Society (https://journals.physiology.org): as tdmrep.json, with a policy.
+- Radiological Society of North America (https://pubs.rsna.org): as tdmrep.json, with a policy.
+- American Phytopathological Society (https://apsjournals.apsnet.org): as tdmrep.json, with a policy.
+- SLACK Journals (https://journals.healio.com): as tdmrep.json, with a policy.
+- Taylor & Francis (https://www.tandfonline.com): as tdmrep.json, with a policy.
+- University of Chicago Press (https://www.journals.uchicago.edu): as tdmrep.json, with a policy.
 
 ## Digital Platforms
 They are contracted by publishers to distribute digital content. 
