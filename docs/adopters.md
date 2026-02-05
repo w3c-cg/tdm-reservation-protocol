@@ -42,6 +42,7 @@ The following Academic & Science, Technology and Mathematics publishers has adop
 - SLACK Journals (https://journals.healio.com): as tdmrep.json, with a policy.
 - Taylor & Francis (https://www.tandfonline.com): as tdmrep.json, with a policy.
 - University of Chicago Press (https://www.journals.uchicago.edu): as tdmrep.json, with a policy.
+- American Association for the Advancement of Science (https://www.science.org): as tdmrep.json, with a policy.
 
 ## Digital Platforms
 They are contracted by publishers to distribute digital content. 
