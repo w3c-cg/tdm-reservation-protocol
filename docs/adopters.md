@@ -32,6 +32,7 @@ The following Academic & Science, Technology and Mathematics publishers has adop
 - Edinburgh University Press (https://www.euppublishing.com): as tdmrep.json, with a policy.
 - Geological Society of London (https://www.lyellcollection.org): as tdmrep.json, with a policy.
 - Guilford Press (https://guilfordjournals.com): as tdmrep.json, with a policy.
+- Hanser (https://www.hanser-elibrary.com/): as tdmrep.json, with a policy.
 - Hogrefe (https://econtent.hogrefe.com): as tdmrep.json, with a policy.
 - Institution of Engineering and Technology (https://digital-library.theiet.org): as tdmrep.json, with a policy.
 - Liverpool University Press (https://www.liverpooluniversitypress.co.uk): as tdmrep.json, with a policy.
