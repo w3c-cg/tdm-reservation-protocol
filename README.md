@@ -55,7 +55,7 @@ The “opt-out” mechanism introduced by the CDSM Directive is therefore a real
 - [Useful extracts of the European CDSM and AI Directives](docs/eu-act-extracts.md)
 - [Past and existing initiatives](docs/initiatives.md)
 - [Robots.txt for non techies](docs/robots.md)
-- [Github project](https://github.com/w3c/tdm-reservation-protocol)
+- [Github project](https://github.com/w3c-cg/tdm-reservation-protocol)
 
 ### Illustration of the three approved techniques 
 
