@@ -17,13 +17,15 @@ This page contains a list of adopters of the TDM Reservation Protocol. Adopters 
 ## Academic & STM Publishers
 The following Academic & Science, Technology and Mathematics publishers has adopted the protocol:
 
-- Elsevier (https://www.elsevier.com/): as tdmrep.json, http headers + html metadata, with a policy.
+- Elsevier (https://www.elsevier.com/): as tdmrep.json, http headers + html metadata, with a policy. Also Crossref metadata, PDF and EPUB metadata.
 - American Chemical Society (https://pubs.acs.org/): as tdmrep.json, with a policy.
 - Springer Nature (https://www.springernature.com/): as tdmrep.json, with a policy.
 - American Psychological Association (https://psycnet.apa.org, https://psycinfo.apa.org, https://academicwriter.apa.org, and https://psyctherapy.apa.org): as http headers + html metadata, with a policy.
 - Optica Publishing Group (https://opg.optica.org/): as tdmrep.json, Crossref metadata, PDF XMP Metadata, with a policy
 - IEEE (https://www.ieee.org): as tdmrep.json, with a policy.
 - Sage (https://www.sagepub.com) as tdmrep.json, with a policy.
+- Taylor & Francis (https://www.taylorfrancis.com/)as tdmrep.json, with a policy (in http response).
+- IOPP (https://iopscience.iop.org/: tdmrep.json, with a policy (in http response).
 
 ## Digital Platforms
 They are contracted by publishers to distribute digital content. 
@@ -32,7 +34,8 @@ They are contracted by publishers to distribute digital content.
 - Bookwire (Germany):in every EPUB + Onix data they distribute. 
 - Casalini Libri (Italy): in every EPUB and PDF files, via in Torrossa, its online digital store of scholarly publications.
 - Edigita (Italy): in every EPUB files + Onix data they distribute.
-
+- Atypon, with opt-in possibility for publishers that use such platforms.
+- Highwire, with opt-in possibility for publishers that use such platforms.
 
 ## Newspapers
 - Ouest France (https://www.ouest-france.fr/): as html metadata, with a policy.
