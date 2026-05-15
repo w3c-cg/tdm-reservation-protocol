@@ -26,6 +26,8 @@ The following Academic & Science, Technology and Mathematics publishers has adop
 - Sage (https://www.sagepub.com) as tdmrep.json, with a policy.
 - Taylor & Francis (https://www.taylorfrancis.com/)as tdmrep.json, with a policy (in http response).
 - IOPP (https://iopscience.iop.org/: tdmrep.json, with a policy (in http response).
+- The Cochrane Library (http://www.cochranelibrary.com/) as tdmrep.json, with a policy.
+- Springer Publishing (https://connect.springerpub.com/) as tdmrep.json, with a policy.
 
 ## Digital Platforms
 They are contracted by publishers to distribute digital content. 
