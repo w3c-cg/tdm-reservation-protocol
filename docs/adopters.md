@@ -40,6 +40,7 @@ They are contracted by publishers to distribute digital content.
 - Highwire, with opt-in possibility for publishers that use such platforms.
 
 ## Newspapers
+- Chicago Tribune (https://www.chicagotribune.com): as tdmrep.json.
 - Ouest France (https://www.ouest-france.fr/): as html metadata, with a policy.
 - Sud Ouest (https://www.sudouest.fr/): as tdmrep.json, with a policy.
 - Les Echos (https://www.lesechos.fr/): as html metadata, with a policy.
