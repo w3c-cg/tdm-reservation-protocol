@@ -12,17 +12,22 @@ In a white paper, the EPC introduces it as
 
 *“The ability of new technology to extract meaningful information from vast amounts of data.”*
 
-## TDM vs AI/ML
+## TDM vs Artificial Intelligence (AI) and Machine Learning (ML)
 
-Text and data mining techniques are important tools for preparing and analyzing data for use in most AI/ML (*) applications. It is particularly the case for any solution involving large training sets, especially generative AI solutions like GPT-4 or Midjourney. 
+Text and data mining techniques are important tools for preparing and analyzing data for use in most AI/ML applications. It is particularly the case for any solution involving large training sets, especially generative AI solutions. 
 
 In March 2023, Thierry Breton, Commissioner for Internal Market of the European Union, gave [useful precisions about the applicability of the TDM exceptions defined in DSM Directive for AI solutions](https://www.europarl.europa.eu/doceo/document/E-9-2023-000479-ASW_EN.html). This answer enforces that for the EU Commission, the use of web content by AI solutions falls into the scope of the Articles 3 and 4 of the DSM Directive. 
 
 ## TDM vs search engines
 
-To our knowledge, search engines don't apply TDM techniques to the content they crawl and index; therefore, web crawlers are not affected by the TDM reservation techniques defined by this group. 
+Modern search engines apply TDM/AI/ML techniques to the content they crawl and index. This is reflected by exchanges between experts, for instance in the [IETF AI-Pref forum](https://datatracker.ietf.org/wg/aipref/about/).
 
-To be certain that TDM opt-out does not impact the indexation of web content by search engines, we didn't even try to extend robots.txt for the sake of defining the TDM reservtion protocol. The techniques used in the TDMRep specification are similar to those used in robots.txt because the latter are globally considered simple, flexible and powerful, but they do not overlap. For more information about robots.txt, you can read [robots for non techies](./robots.html). 
+It is however highly desirable for providers of Web content to be correctly indexed and ranked by search engines, with limitation on their acceptance to have their content remixed for providing answers without direct reference to the original web page content originates from.
 
-* AI/ML stands for Artificial Intelligence / Machine Learning
+This is why TDMRep expresses a reservation of rights which does not conflict with indexing signals conveyed by robots.txt. 
+
+To be certain that TDM opt-out does not impact the indexation of web content by search engines, we didn't try to extend robots.txt for the sake of defining the TDM reservtion protocol. The technique used in the TDMRep specification for reserving rights relative to web content is very similar to those used in robots.txt, but they do not overlap. For more information about robots.txt, please read [robots for non techies](./robots.html). 
+
+The IETF AI-Pref working group is currently trying to design a vocabulary of content usage, which will allow content providers to clearly signal their preferences regarding the processing of copyrighted content by AI models and systems.  
+
 
