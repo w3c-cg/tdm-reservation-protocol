@@ -27,6 +27,7 @@ The following Academic & Science, Technology and Mathematics publishers has adop
 - CAB International (https://www.cabidigitallibrary.org): as tdmrep.json, with a policy.
 - Edinburgh University Press (https://www.euppublishing.com): as tdmrep.json, with a policy.
 - Elsevier (https://www.elsevier.com/): as tdmrep.json, http headers + html metadata, with a policy. Also Crossref metadata, PDF and EPUB metadata.
+- European Respiratory Society (https://publications.ersnet.org/): as tdmrep.json, with a policy.
 - Geological Society of London (https://www.lyellcollection.org): as tdmrep.json, with a policy.
 - Guilford Press (https://guilfordjournals.com): as tdmrep.json, with a policy.
 - Hanser (https://www.hanser-elibrary.com/): as tdmrep.json, with a policy.
@@ -36,6 +37,7 @@ The following Academic & Science, Technology and Mathematics publishers has adop
 - IOPP (https://iopscience.iop.org/: tdmrep.json, with a policy (in http response).
 - Liverpool University Press (https://www.liverpooluniversitypress.co.uk): as tdmrep.json, with a policy.
 - Mark Allen Group (https://www.magonlinelibrary.com): as tdmrep.json, with a policy.
+- Portfolio Management Research (https://www.pm-research.com/): as tdmrep.json, with a policy.
 - American Physiological Society (https://journals.physiology.org): as tdmrep.json, with a policy.
 - Radiological Society of North America (https://pubs.rsna.org): as tdmrep.json, with a policy.
 - American Phytopathological Society (https://apsjournals.apsnet.org): as tdmrep.json, with a policy.
