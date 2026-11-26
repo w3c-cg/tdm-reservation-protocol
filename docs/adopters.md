@@ -75,3 +75,7 @@ They are contracted by publishers to distribute digital content.
 A daily update is available on [Mind Media](https://www.mind.eu.com/media/data/ia-generative-quels-editeurs-francais-bloquent-les-robots-dopenai-et-google-lesquels-ont-adopte-le-protocole-tdmrep/), a French online media which maintains a robot developed using [datawrapper](https://www.datawrapper.de/_/607Cd/). 
 
 Cherry on the cake: this tool provides links to the TDM policy files of each newspaper. 
+
+## Other Websites
+
+- [Enfilade](https://enfilade.guide/): as tdmrep.json, http headers + html metadata, with a policy.
